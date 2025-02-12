@@ -8,7 +8,7 @@
 1. Clone o repositório:
    ```sh
    git clone https://github.com/LucasPaifar/AutomacaoTesteCypress.git
-   cd desafio-qa-cypress
+
    ```
 2. Instale as dependências:
    ```sh

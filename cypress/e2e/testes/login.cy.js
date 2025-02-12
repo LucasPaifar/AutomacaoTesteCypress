@@ -24,5 +24,4 @@ describe('Testes de Login', () => {
     cy.get('#logout_sidebar_link').click();
     cy.url().should('eq', 'https://www.saucedemo.com/');
   });
-
 });
