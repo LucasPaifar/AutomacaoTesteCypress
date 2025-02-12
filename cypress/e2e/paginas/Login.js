@@ -1,6 +1,7 @@
 class LoginPage {
     visit() {
       cy.visit('/');
+      cy.get('.login_logo').should('be.visible');
     }
   
     fillUsername(username) {
